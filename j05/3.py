@@ -1,6 +1,5 @@
 s = 0
 t = 0
-run = True
 while 1:
     a = int(input("enter a number: "))
     if a == -1:
