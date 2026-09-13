@@ -1,0 +1,6 @@
+class Test:
+    def test(self):
+        print("test")
+
+
+a = Test()
